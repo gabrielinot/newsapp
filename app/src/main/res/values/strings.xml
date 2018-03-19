@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="greatfeat_title">GreatFeat</string>
+    <string name="title_activity_news_list">NewsListActivity</string>
+
+
+    <string name="refresh">Refresh</string>
+    <string name="news">News</string>
+</resources>
